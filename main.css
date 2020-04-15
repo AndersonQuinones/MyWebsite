@@ -3,9 +3,19 @@
 }
 body{
     background-color: rgb(29, 63, 90);
+    color: white;
+    
 }
 header{
-    color:white;
     font-size: 64px;
     text-align: center;
+}
+ul{
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+}
+p{
+    font-size: 18px;
 }
