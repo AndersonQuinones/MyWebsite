@@ -10,10 +10,16 @@ header{
     font-size: 64px;
     text-align: center;
 }
+#icons{
+    text-align: center;
+}
 ul{
     font-size: 20px;
 }
 h2{
+    text-align: center;
+}
+h3{
     text-align: center;
 }
 p{
