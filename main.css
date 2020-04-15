@@ -2,5 +2,10 @@
     width: device-width;
 }
 body{
-    background-color: darkslategray;
+    background-color: rgb(29, 63, 90);
+}
+header{
+    color:white;
+    font-size: 64px;
+    text-align: center;
 }
